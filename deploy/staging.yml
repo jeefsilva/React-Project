@@ -1,0 +1,9 @@
+name: site-front
+path: ../
+command: npm run start -- -p $PORT
+buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+
+memory: 128M
+instances: 1
+host: arithmos-site-staging
+domain: cfapps.io

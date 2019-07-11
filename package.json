@@ -1,0 +1,60 @@
+{
+  "name": "arithmos-site-front-react",
+  "version": "1.0.0",
+  "description": "Front-end do site da Arithmos",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "@zeit/next-sass": "^1.0.1",
+    "@zeit/next-typescript": "^1.1.1",
+    "axios": "^0.18.0",
+    "html-to-text": "^5.1.1",
+    "jss": "^9.8.7",
+    "next": "8.0.3",
+    "next-redux-wrapper": "^3.0.0-alpha.2",
+    "node-sass": "^4.12.0",
+    "nuka-carousel": "^4.5.4",
+    "preact": "^8.4.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-ga": "^2.5.7",
+    "react-hotjar": "^2.0.0",
+    "react-jss": "^8.6.1",
+    "react-redux": "^5.0.1",
+    "react-select": "latest",
+    "redux": "^3.6.0",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.1.0",
+    "typescript": "^3.4.3"
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/html-to-text": "^1.4.31",
+    "@types/material-ui": "^0.21.6",
+    "@types/next": "^8.0.3",
+    "@types/next-redux-wrapper": "^2.0.2",
+    "@types/node": "^11.13.4",
+    "@types/prop-types": "^15.7.0",
+    "@types/react": "^16.8.13",
+    "@types/react-jss": "^8.6.3",
+    "@types/react-native-material-ui": "^1.31.1",
+    "@types/react-select": "^2.0.17",
+    "@types/styled-jsx": "^2.2.8",
+    "tslint": "^5.15.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/sobtic-dev/arithmos/arithmos-site-front-react.git"
+  },
+  "engines": {
+    "node": "10.x.x",
+    "npm": "6.4.x"
+  },
+  "license": "ISC"
+}
