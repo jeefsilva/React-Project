@@ -18,7 +18,7 @@
     "jss": "^9.8.7",
     "next": "8.0.3",
     "next-redux-wrapper": "^3.0.0-alpha.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nuka-carousel": "^4.5.4",
     "preact": "^8.4.2",
     "react": "16.8.6",
